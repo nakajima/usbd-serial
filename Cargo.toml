@@ -10,7 +10,7 @@ authors = ["Matti Virkkunen <mvirkkunen@gmail.com>"]
 repository = "https://github.com/mvirkkunen/usbd-serial"
 
 [dependencies]
-embedded-hal = "0.2.4"
+embedded-hal = "1.0.0"
 nb = "1"
 usb-device = "0.3"
-embedded-io = "0.6"
+embedded-io = "0.6.1"
